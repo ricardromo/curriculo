@@ -1,0 +1,25 @@
+body{
+	background-color: lightgray;
+	margin: 20px;
+}
+div{
+	border-style:solid;
+}
+.foto{
+	width: 100%;
+	position: relative;
+	box-sizing: inherit;
+	background-color: lightblue;
+}
+.nome{
+	width: 100%;
+	position: bottom; 
+	color: black;
+	display: block;
+	border-style: inherit;
+}
+.proficional{
+	display: block;
+	box-sizing: inherit;
+	float: right;
+}
